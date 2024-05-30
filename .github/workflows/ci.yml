@@ -68,4 +68,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: dibrito/ci-example:latest
+          tags: shadowbmo/ci-example:latest
