@@ -7,7 +7,7 @@ on:
   pull_request:
     branches:
       - main
-      - teste
+      - develop
     types: [ opened, reopened ]
 
 jobs:
